@@ -1,0 +1,14 @@
+# Separate repos — published independently
+Promptbase/
+Midjourney 1.5.2026/
+prompt-library/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+New Text Document.txt
+
+# Editors
+.vscode/
+*.swp
