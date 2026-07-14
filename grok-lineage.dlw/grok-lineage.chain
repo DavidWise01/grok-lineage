@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1322
+slug  : grok-lineage
+seal  : 148ddf1947d49245c3636c6b2bec1507d682c610d49487a972eea5de72791fda
+prev  : f694e3189614623154b94e014fd75b0c0b73a13416bd8779acfaea18ea8e4c13
+link  : 8091123fd667ed2d330e0aaad62ff791ad6c4b048c6d9e6c351d7ffe6532a667
+head  : 41f029ee4eaa0042c67040dc5927434f8e8446341839c86b6a09d79c5fbf30da
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
